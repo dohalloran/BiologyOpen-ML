@@ -1,4 +1,3 @@
-````markdown
 # Anthelmintic Activity Pipeline
 
 This repository contains a complete cheminformatics workflow that starts from two labeled datasets of compounds (active and inactive) and ends with predicted activity labels for DrugBank-approved drugs.
