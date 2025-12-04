@@ -76,9 +76,6 @@ Revision/
 Example conda environment:
 
 ```bash
-conda create -n anthelmintic python=3.9
-conda activate anthelmintic
-
 # RDKit from conda-forge
 conda install -c conda-forge rdkit
 
@@ -489,8 +486,6 @@ From a clean clone of this repository, the typical workflow is:
 1. **Set up environment**
 
    ```bash
-   conda create -n anthelmintic python=3.9
-   conda activate anthelmintic
    conda install -c conda-forge rdkit
    pip install numpy pandas scikit-learn matplotlib seaborn
    ```
